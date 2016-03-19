@@ -1,0 +1,26 @@
+{
+  "name": "bille",
+  "authors": [
+    "Zerin Tursic <zerintursic99@gmail.com>"
+  ],
+  "description": "smart payment system",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "bill",
+    "smart",
+    "payment"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0"
+  }
+}
